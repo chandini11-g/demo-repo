@@ -1,4 +1,4 @@
 #Demo
 
 DESCRIPTION:
-demo in readme.
+demo in README.
